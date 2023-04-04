@@ -4,8 +4,8 @@ description: a collection of findings, opinions, and other things i'd like to sh
 email: joyceleste@gmail.com
 
 description: > # description of the site (multiple lines allowed)
-  I'm joy-celeste, known as JC to my friends. SF bay area-based software engineer who likes birds, cycling, gudetama, hanfu and design.
-  *NOTE:* Opinions are my own and are not reflective of employer.
+  I'm joy-celeste, known as JC to my friends. SF bay area-based software engineer who likes birds, cycling, gudetama, hanfu and design. <br>
+  <b>NOTE:<b> All opinions are my own and are not reflective of present, past, or future employers.
 
 favicon: "logo.png" # name+extension of favicon (which must be put on the root folder)
 # goat_counter: "yoursitename" # put your GoatCounter name if you want to use GoatCounter analytics
