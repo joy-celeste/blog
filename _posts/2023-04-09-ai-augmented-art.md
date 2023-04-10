@@ -9,7 +9,7 @@ Recently, I've been interested in the capabilities of AI Art. I bought a month's
 
 I wanted to create some art of my MapleLegends character, Alouph, who is a mermaid:
 
-![image](https://joy-celeste.github.io/blog/assets/images/alouph-avatar.png).
+![image](https://joy-celeste.github.io/blog/assets/images/alouph-avatar.png)
 
 I decided I wanted off the bat that I wanted the art to be semi-realistic, so I started off with this prompt:
 
@@ -62,6 +62,6 @@ It was at this point I really wondered if AI was going to take a digital artist'
 
 In the end, I wasn't actually able to generate a mermaid with proper hand anatomy, so I had to spend a couple hours redrawing the hands myself.
 
-Hope you enjoy the final result!
+Hope you enjoy the final result! In the end, it still took about 8 hours to generate, stitch together, edit, and polish the images, so this still ended up being a process that involved a lot of manual work. That said, I am completely satisfied with the result, especially since an image of this quality would normally take me about 18-24 hours to draw myself. :) I learned a lot from this experiment and hope to get the entire process down to about 2 hours a composite.
 
 ![](https://joy-celeste.github.io/blog/assets/images/alouph-final.jpg)
