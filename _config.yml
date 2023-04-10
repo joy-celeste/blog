@@ -3,6 +3,9 @@ author: joy-celeste
 description: a collection of findings, opinions, and other things i'd like to share on my corner of the internet
 email: donotemail@gmail.com
 
+url: 'https://joy-celeste.github.io/'
+baseurl: 'blog/'
+
 description: > # description of the site (multiple lines allowed)
   Hi, I'm JC. SF bay area-based software engineer who loves creative work. Always chasing self-actualization.<br><br>
   <b>NOTE:</b> All opinions are my own and are not reflective of present, past, or future employers.
@@ -18,4 +21,3 @@ theme_config:
   date_format: "%Y-%m-%d" # customize how date is formatted
   show_description: true # show blog description in home page
 
-BASE_PATH : /blog
