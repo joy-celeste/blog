@@ -17,15 +17,15 @@ I decided I wanted off the bat that I wanted the art to be semi-realistic, so I 
 disney girl mermaid pink tail blue hair happy underwater sitting on a cliff with a staff and fish looking at viewer semi realistic
 ```
 
-![image](https://joy-celeste.github.io/blog/assets/images/alouph-wip1.png).
+![image](https://joy-celeste.github.io/blog/assets/images/alouph-wip1.png)
 
 I really liked the pose on this one, and spent about an hour trying to render a version where she had a visible mermaid tail instead of a scarf or sash. Unfortunately, it wasn't able to be done, so I went ahead and rerolled the prompt about four more times until I saw a version that had potential:
 
-![image](https://joy-celeste.github.io/blog/assets/images/alouph-wip2.png).
+![image](https://joy-celeste.github.io/blog/assets/images/alouph-wip2.png)
 
 The top left image had the right sort of feel, so I upscaled it. I rerolled this upscale version a few times until I found a version with a face that "felt" like my character.
 
-![image](https://joy-celeste.github.io/blog/assets/images/alouph-wip3.png).
+![image](https://joy-celeste.github.io/blog/assets/images/alouph-wip3.png)
 
 I was pretty happy with this, however, I also immediately noticed that her hands were not generated correctly. One of the biggest weaknesses for AI is the ability to draw hands, likely due to the fact that humans also generally have trouble drawing hands. 
 
@@ -37,7 +37,7 @@ What I ended up doing next might shock you - in the end, to get the fish hat tha
 disney asian adult mermaid portrait, fish on head with a giant star on top, looking at viewer over shoulder, outside in daylight, blue sky, semi-realism --no cartoon, chibi
 ```
 
-![image](https://joy-celeste.github.io/blog/assets/images/alouph-wip4.png).
+![image](https://joy-celeste.github.io/blog/assets/images/alouph-wip4.png)
 
 ... which ultimately got me the fish hat that I needed:
 
