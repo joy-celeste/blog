@@ -6,4 +6,4 @@ date: 2023-04-09
 ## Header
 text
 
-![example image]({{ BASE_PATH }}/assets/images/alouph-final.jpg)
+![example image](/assets/images/alouph-final.jpg)
