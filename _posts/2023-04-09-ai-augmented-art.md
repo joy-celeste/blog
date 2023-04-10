@@ -3,8 +3,6 @@ title: "AI Augmented Digital Art"
 date: 2023-04-09
 ---
 
-## Intro and Motivations
-
 Recently, I've been interested in the capabilities of AI Art. I bought a month's subscription of Midjourney and went to work.
 
 I wanted to create some art of my MapleLegends character, Alouph, who is a mermaid:
