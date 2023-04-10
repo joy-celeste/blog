@@ -6,4 +6,4 @@ date: 2023-04-09
 ## Header
 text
 
-![]({{ site.baseurl }}/assets/images/alouph-final.jpg)
+![image](https://joy-celeste.github.io/blog/assets/images/alouph-final.jpg)
