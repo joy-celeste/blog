@@ -1,5 +1,5 @@
 ---
-title: "AI-based Digital Art"
+title: "AI Augmented Digital Art"
 date: 2023-04-09
 ---
 
