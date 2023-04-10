@@ -45,9 +45,8 @@ disney asian adult mermaid portrait, fish on head with a giant star on top, look
 
 ... and here is a small gallery of a SMALL selection of the rejected fish hats:
 
-1|2|3|4
-:----:|:---:|:----:|:---:
-![](https://joy-celeste.github.io/blog/assets/images/alouph-fish-hat-fail1.png)|![](https://joy-celeste.github.io/blog/assets/images/alouph-fish-hat-fail2.png)|![](https://joy-celeste.github.io/blog/assets/images/alouph-fish-hat-fail3.png)|![](https://joy-celeste.github.io/blog/assets/images/alouph-fish-hat-fail4.png)|
+![](https://joy-celeste.github.io/blog/assets/images/alouph-fish-hat-fail1.png)|![](https://joy-celeste.github.io/blog/assets/images/alouph-fish-hat-fail2.png)
+![](https://joy-celeste.github.io/blog/assets/images/alouph-fish-hat-fail3.png)|![](https://joy-celeste.github.io/blog/assets/images/alouph-fish-hat-fail4.png)
 
 In the end, I still had to take the time to manually extract the fish hat and edit it into the image with Photoshop.
 
