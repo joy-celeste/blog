@@ -4,7 +4,7 @@ description: a collection of findings, opinions, and other things i'd like to sh
 email: donotemail@gmail.com
 
 url: 'https://joy-celeste.github.io/'
-baseurl: 'blog/'
+baseurl: 'blog'
 
 description: > # description of the site (multiple lines allowed)
   Hi, I'm JC. SF bay area-based software engineer who loves creative work. Always chasing self-actualization.<br><br>
