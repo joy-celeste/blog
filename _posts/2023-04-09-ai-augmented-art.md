@@ -33,7 +33,9 @@ Additionally, I also noticed that while this image was great as a base, the char
 
 What I ended up doing next might shock you - in the end, to get the fish hat that I wanted, I had to quickly composite together a fish hat and reran it through the AI with this prompt: 
 
-```disney asian adult mermaid portrait, fish on head with a giant star on top, looking at viewer over shoulder, outside in daylight, blue sky, semi-realism --no cartoon, chibi```
+```
+disney asian adult mermaid portrait, fish on head with a giant star on top, looking at viewer over shoulder, outside in daylight, blue sky, semi-realism --no cartoon, chibi
+```
 
 ![image](https://joy-celeste.github.io/blog/assets/images/alouph-wip4.png).
 
