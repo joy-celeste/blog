@@ -51,8 +51,8 @@ In the end, I still had to take the time to manually extract the fish hat and ed
 
 There are other images I generated to steal from:
 
-Bangs|Star on Staff|
-:----:|:---:|:----:|:---:
+Bangs|Star on Staff
+:----:|:---:
 ![](https://joy-celeste.github.io/blog/assets/images/alouph-wip5.png)|![](https://joy-celeste.github.io/blog/assets/images/alouph-wip6.png)
 
 It was at this point I really wondered if AI was going to take a digital artist's job, since there was still so much editing work necessary.
